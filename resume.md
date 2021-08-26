@@ -22,6 +22,6 @@ Boone, NC, USA
 * ArcGIS
 
 ### Work Experience
-Office Assistant with the Math and Science Education Center, Appalachian State University *2018 - Present*
+Office Assistant with the Math and Science Education Center, Appalachian State University *2018 - Present*  
 GIS Summer Intern, State of North Carolina
 *2021 - 2021*
