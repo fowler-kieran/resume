@@ -13,7 +13,7 @@ Fourth-year Geography student. Passionate about creative map design and using GI
 ### Education
 ----------------
 B.S. in Geography (GIS Concentration), 2022
-Appalachian State University  
+Appalachian State University
 Boone, NC, USA
 
 ### Skills
@@ -27,5 +27,5 @@ Boone, NC, USA
 ### Work Experience
 ------------------------------
 Office Assistant with the Math and Science Education Center, Appalachian State University *2018 - Present*
-GIS Summer Intern, State of North Carolina
+GIS Summer Intern, State of North Carolina  
 *2021 - 2021*
